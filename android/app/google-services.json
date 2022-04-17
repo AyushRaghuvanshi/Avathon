@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878868104906",
+    "project_id": "avathon-d78fd",
+    "storage_bucket": "avathon-d78fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878868104906:android:3af30775d6caac57eed633",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878868104906-lbesiofgb4j3vfa4kmqe34b5c1sk9smm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5luWAEBk3i4X4AtIB_0es-ie4IsHgBjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878868104906-lbesiofgb4j3vfa4kmqe34b5c1sk9smm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
